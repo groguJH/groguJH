@@ -3,6 +3,15 @@
 <img width="500" height="auto" alt="groguJH-junghwa Introducing myself" src="https://github.com/user-attachments/assets/579bf5f0-ce9d-405d-a9ad-afd9c1337520" />
 </div>
 
+<div align="center">
+  <a href="https://junghwa-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/🫧_Portfolio_Site-Click_Here-transparent?style=flat&logoColor=transparent" />
+  </a>
+</div> 
+
+
+<br>
+
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -52,3 +61,7 @@
     <img src="https://img.shields.io/badge/rkdwwjd5@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
+
+
+<br>
+
