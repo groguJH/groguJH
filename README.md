@@ -39,18 +39,6 @@
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />&nbsp
 </div>
 
-<br>
-
-<h3 align="center">📊 GitHub Stats 📊</h3>
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=groguJH&show_icons=true&theme=radical" />
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=groguJH&layout=compact&theme=radical" />
-  </a>
-</div>
 
 <br>
 
