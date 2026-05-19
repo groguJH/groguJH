@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="500" height="auto" alt="groguJH-junghwa Introducing myself" src="https://github.com/user-attachments/assets/579bf5f0-ce9d-405d-a9ad-afd9c1337520" />
+<img width="500" height="auto" alt="groguJH-junghwa Introducing myself (600 x 450 px)" src="https://github.com/user-attachments/assets/24199a95-8cbb-48ef-84b5-08dcf1443bbc" />
 </div>
 
 <div align="center">
@@ -9,9 +9,8 @@
   </a>
 </div> 
 
-
 <br>
-
+<br>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
